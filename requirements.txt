@@ -1,0 +1,10 @@
+transformers==4.11.3
+accelerate==0.6.0
+einops==0.3.2
+langchain==0.1.0
+xformers==0.4.0
+bitsandbytes==0.6.0
+faiss-gpu==1.7.0
+sentence-transformers==2.1.0
+torch==1.10.0
+PyPDF2==1.26.0
